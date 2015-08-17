@@ -1,8 +1,9 @@
-Ruby on Rails microblogging web application having Test Driven Design using bootstrap for fronthand.
+Ruby on Rails microblogging web application having Test Driven Design using bootstrap for frontend.
  
  App consist of login/logout and signup with account activation and password reset via email.
- A user can post text and/or images, can follow/unfollow people,can view other profiles.
- User home page consists microblogs of users he is following.
+ A user can post text and/or images, can follow/unfollow people,
+ can view other user profiles and profiles of followed and following users.
+ User home page consists microblogs of own and other users he is following.
 
 Database:
  Developement: Sqlite3 '1.3.9'
